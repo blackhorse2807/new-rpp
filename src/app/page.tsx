@@ -170,7 +170,7 @@ const NatureHero = () => {
         <h2 className="text-4xl font-extrabold text-[#027e3f] mb-4 text-center tracking-tight">
           How It Works
         </h2>
-        <p className="text-center text-gray-700 mb-14 text-lg max-w-2xl mx-auto">Our process is simple, transparent, and designed for both sellers and buyers to succeed. Here's how you can get started:</p>
+        <p className="text-center text-gray-700 mb-14 text-lg max-w-2xl mx-auto">Our process is simple, transparent, and designed for both sellers and buyers to succeed. Here&apos;s how you can get started:</p>
         <div className="flex flex-col md:flex-row items-center justify-center gap-10 md:gap-16">
           {/* Sellers Card */}
           <div className="flex-1 bg-white rounded-3xl shadow-xl p-10 border-t-8 border-[#027e3f] flex flex-col items-center hover:shadow-2xl transition-transform duration-300">
