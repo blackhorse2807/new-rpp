@@ -1,0 +1,55 @@
+@import 'tailwindcss';
+@import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can add custom global styles below */
+.bg-gradient {
+    background: linear-gradient(135deg, #6e7dff, #5560ea);
+  }
+
+  @keyframes fadeIn {
+    0% {
+      opacity: 0;
+      transform: translateY(-5px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+  
+  .animate-fadeIn {
+    animation: fadeIn 0.2s ease-in-out;
+  }
+  
+@keyframes scroll {
+  0% {
+    transform: translateX(0);
+  }
+  100% {
+    transform: translateX(-50%);
+  }
+}
+
+.animate-scroll {
+  animation: scroll 20s linear infinite;
+}
+
+/* Add hover pause effect */
+.animate-scroll:hover {
+  animation-play-state: paused;
+}
+
+/* Card hover effects */
+.card-hover-effect {
+  transition: all 0.4s ease-in-out;
+}
+
+.card-hover-effect:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+  
