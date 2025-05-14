@@ -291,7 +291,7 @@ export default function SellerDashboard() {
           <div className="bg-white p-6 rounded-lg shadow-md text-gray-600">
             <h2 className="text-xl font-semibold mb-4">Messages from Admin</h2>
             <p>
-              No messages yet. We’ll notify you if there’s any update about your
+              No messages yet. We&apos;ll notify you if there&apos;s any update about your
               products.
             </p>
           </div>
