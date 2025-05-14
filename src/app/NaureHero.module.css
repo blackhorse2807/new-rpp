@@ -16,7 +16,7 @@
   max-width: 600px;
   aspect-ratio: 1;
   margin: auto;
-  background-image: url("/header.jpg");
+  background-image: url("/header.jpeg");
   background-position: center center;
   background-size: cover;
   -webkit-mask: url("/header-bg.png");
