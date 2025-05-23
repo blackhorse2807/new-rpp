@@ -22,8 +22,7 @@ export default function Footer() {
             </Link>
             <div className="mt-4">
               <p className="text-base text-gray-300 leading-relaxed">
-                123 Green Valley, FarmTech Park, Pune,<br />
-                Maharashtra, India
+                C312, Patel Hall of Residence, Indian Institute of Technology, Kharagpur
               </p>
             </div>
           </div>
