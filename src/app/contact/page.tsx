@@ -68,7 +68,7 @@ export default function ContactPage() {
           {/* Office Contact Details */}
           <div>
             <h2 className="text-2xl font-semibold text-green-700 mb-4">Our Office</h2>
-            <p className="mb-2"><strong>Address:</strong> C312, Patel Hall of Residence, IIT Kharagpur/p>
+            <p className="mb-2"><strong>Address:</strong> C312, Patel Hall of Residence, IIT Kharagpur</p>
             <p className="mb-2"><strong>Email:</strong> info@velebitgreen.com</p>
             <p className="mb-2"><strong>Phone:</strong> +91 98765 43210</p>
             <p className="mb-2"><strong>Support:</strong> support@velebitgreen.com</p>
