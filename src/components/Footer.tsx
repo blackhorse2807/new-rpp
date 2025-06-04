@@ -13,7 +13,7 @@ export default function Footer() {
             <Link href="/" className="inline-block -mt-4">
               <Image
                 src="/logowhite.png"
-                alt="VelebitGreen"
+                alt="green Cycle Hub"
                 width={220}
                 height={88}
                 priority
@@ -61,7 +61,7 @@ export default function Footer() {
                   </Link>
                 </li>
                 <li>
-                  <Link href="/terms-and-conditions" className="text-base text-gray-300 hover:text-white transition-colors">
+                  <Link href="/terms" className="text-base text-gray-300 hover:text-white transition-colors">
                     Terms & Conditions
                   </Link>
                 </li>
