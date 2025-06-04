@@ -12,7 +12,7 @@ export default function Footer() {
           <div className="lg:col-span-4">
             <Link href="/" className="inline-block -mt-4">
               <Image
-                src="/logo-white.png"
+                src="/logowhite.png"
                 alt="VelebitGreen"
                 width={220}
                 height={88}
