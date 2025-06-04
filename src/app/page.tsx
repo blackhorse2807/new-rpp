@@ -144,7 +144,7 @@ const NatureHero = () => {
           <h1 className={styles.hero_h1}>
             <span className={styles.static_text}>We are</span>
             <div className={styles.typing_wrapper}>
-              <span className={styles.typing_text}>VELEBIT GREEN</span>
+              <span className={styles.typing_text}>GREEN CYCLE HUB</span>
             </div>
           </h1>
           <h2 className={styles.hero_h2}>Transform Waste Into a Better Tomorrow</h2>
