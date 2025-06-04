@@ -107,7 +107,7 @@ export default function Footer() {
             </Link>
           </div>
           <p className="text-sm text-gray-300">
-            © 2025 Velebit Green - Crafted with care to build a sustainable tomorrow ♻️
+            © 2025 Ujjwal Kumar Singh - Crafted with care to build a sustainable tomorrow ♻️
           </p>
         </div>
       </div>
