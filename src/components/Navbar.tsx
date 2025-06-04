@@ -103,7 +103,6 @@ export default function Navbar() {
               <div className="absolute top-full left-0 mt-1 w-56 bg-white rounded-md shadow-lg py-2 z-50 animate-fadeIn border border-gray-100 transform transition-all duration-300 ease-in-out">
                 {[
                   { href: '/aboutus', label: 'About Us' },
-                  { href: '/team', label: 'Meet the Team' },
                   { href: '/contact', label: 'Contact Us' },
                 ].map(({ href, label }) => (
                   <Link
